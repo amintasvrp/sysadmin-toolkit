@@ -1,10 +1,10 @@
-# userlist
+# userlist.sh
 
 Script that lists the users of the system according to the type of parameter that is passed.
 
 ## Arguments
 
-The following user information is displayed: the username, the UID and the full name.
+The following user data is displayed: the `username`, the `UID` and the `full name`.
 
 ### Syntax
 
