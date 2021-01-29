@@ -4,7 +4,7 @@ Script that lists the users of the system according to the type of parameter tha
 
 ## Arguments
 
-The following user data is displayed: the `username`, the `UID` and the `full name`.
+The following user data is displayed: the username, the UID and the full name.
 
 ### Syntax
 
