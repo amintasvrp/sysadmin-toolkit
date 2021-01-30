@@ -2,6 +2,8 @@
 
 Monitoring platform for VM Instances in a Cloud, using the SNMP protocol and the InfluxDB and Grafana technologies.
 
+![Alt Text](../docs/monitor.gif)
+
 ## Getting Started
 
 ### Setting dependencies
