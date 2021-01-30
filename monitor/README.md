@@ -1,4 +1,4 @@
-# Monitor
+# :chart_with_upwards_trend: Monitor
 
 Monitoring platform for VM Instances in a Cloud, using the SNMP protocol and the InfluxDB and Grafana technologies.
 
