@@ -1,4 +1,4 @@
-# userlist.sh
+# :card_file_box: userlist
 
 Script that lists the users of the system according to the type of parameter that is passed.
 
