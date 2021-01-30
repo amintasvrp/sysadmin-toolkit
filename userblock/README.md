@@ -1,4 +1,4 @@
-# userblock.sh
+# :no_entry_sign: userblock
 
 Script that performs the blocking or removal of users who have not logged in to the system within a period of time.
 
