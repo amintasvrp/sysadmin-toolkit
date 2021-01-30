@@ -67,7 +67,7 @@ sudo service grafana-server enable
 
 Through the URL "hostname: 3000", we are able to access the grafana dashboard via browser. On our first login, we use the username and password "admin" (change the password later!).
 
-To connect Grafana to InfluxDB, we need to add InfluxDB as a Data Source in `Settings > Data Source > InfluxDB`, also import `Dashboard Main.json` and `Dashboard Secondary.json`.
+To connect Grafana to InfluxDB, we need to add InfluxDB as a Data Source in `Settings > Data Source > InfluxDB`. Also, import `Dashboard Main.json` and `Dashboard Secondary.json`.
 
 ### Setting monitor.sh
 
