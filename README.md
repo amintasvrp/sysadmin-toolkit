@@ -9,9 +9,8 @@
     <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-## :gear: Tools
+## :hammer_and_wrench: Tools
 
-### userlist.sh
-Script that lists the users of the system according to the type of parameter that is passed.
+- [userlist](/userlist): Script that lists the users of the system according to the type of parameter that is passed.
 
 ### 
